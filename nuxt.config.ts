@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ['@nuxt/content', "@nuxt/image"],
   app: {
-      baseURL: '/andreduarte/' // baseURL: '/<repository>/'
+      baseURL: '/andre/' // baseURL: '/<repository>/'
   },
   css: [
     // SCSS file in the project
@@ -11,8 +11,7 @@ export default defineNuxtConfig({
   ],
 
   plugins: [
-    '~/plugins/globalVariables.js',
-    { src: "@/plugins/aos", ssr: false, mode: "client" }
+    '~/plugins/globalVariables.js'
   ],
   ssr: true,
   experimental: {
