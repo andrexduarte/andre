@@ -1,0 +1,25 @@
+{
+    "André Duarte": {
+        "@context": "http://www.schema.org",
+        "@type": "Person",
+        "@id": "https://example.com/",
+        "name": "André Duarte",
+        "alternateName": "André Duarte",
+        "nationality": "Brasileiro",
+        "gender": "Masculino",
+        "jobTitle": "Frontend developer",
+        "worksFor": [
+            {
+                "@type": "Freelancer",
+                "sameAs": [
+                    "https://www.sample-organization.com/"
+                ]
+            }
+        ],
+        "url": "https://example.com/",
+        "image": "https://example.com/meta-img.jpg",
+        "sameAs": [
+            "https://example.com/"
+        ]
+    }
+}

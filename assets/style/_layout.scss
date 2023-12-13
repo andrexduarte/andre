@@ -1,0 +1,48 @@
+.content {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 30px;
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+
+    .post-list-item {
+        margin-bottom: 20px;
+
+        h2 {
+            font-size: 28px;
+            margin: 0;
+        }
+
+        p {
+            font-size: 12px;
+            margin: 0;
+        }
+    }
+
+    a {
+        text-decoration: none;
+
+        &:hover {
+            h2 {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+
+
+ 
+@keyframes color_change {
+    from { background-color: #A25A4E; }
+    to { background-color: #57C6D4; }
+}
+
+// .the-header {
+//     background-color: #F4B216;
+//     animation: color_change 1s infinite alternate;   
+// }

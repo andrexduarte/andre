@@ -1,0 +1,23 @@
+body {
+    color: var(--text-color);
+    font-family: var(--primary-font);
+    box-sizing: border-box;
+    position: relative;
+
+    &::after {
+        content: "";
+        border-left: 10px solid var(--primary-color);
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+a {
+    color: #000;
+
+    &:hover {
+        text-decoration: none;
+    }
+}

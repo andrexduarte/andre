@@ -1,0 +1,51 @@
+.the-header {
+    background-color: var(--primary-color);
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.title-group {
+    text-align: center;
+    margin: 0 0 30px;
+
+    h1 {
+        font-size: 64px;
+        margin: 0 0 0;
+        text-transform: uppercase;
+        font-family: var(--title-font);
+        letter-spacing: -2px;
+        font-weight: 700;
+
+        @include breakpoint(xs) {
+            font-size: 35px;
+            letter-spacing: -1px;
+        }
+    }
+
+    h2 {
+        font-size: 18px;
+        font-weight: 500;
+        margin: -5px 0 30px;
+
+        @include breakpoint(xs) {
+            font-size: 14px;
+            margin: 0;
+        }
+    }
+}
+
+.ilustra {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+
+    img {
+        display: block;
+        width: 100%;
+        max-width: 538px;
+    }
+}
