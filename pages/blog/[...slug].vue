@@ -16,19 +16,21 @@
                                 <!-- Breadcrumbs -->
                                 <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
                                     <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                                        <a itemprop="item" href="/"> <span itemprop="name">Home</span></a>
+                                        <NuxtLink itemprop="item" :to="`${ $urlSite }`">
+                                            <span itemprop="name">Home</span>
+                                        </NuxtLink>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                                        <a
+                                        <NuxtLink
                                             itemscope
                                             itemtype="https://schema.org/WebPage"
                                             itemprop="item"
                                             itemid="/blog/"
-                                            href="/blog/"
+                                            to="/blog#inicio"
                                         >
-                                            <span itemprop="name">Blog</span></a
-                                        >
+                                            <span itemprop="name">Blog</span>
+                                        </NuxtLink>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
@@ -106,7 +108,7 @@ const { data, error } = await useAsyncData(`content-${cleanPath}`, async () => {
 const { data: authorData } = await useAsyncData('home', () => queryContent('/authors').findOne());
 
 // Set the meta
-const baseUrl = 'https://example.com';
+const baseUrl = 'https://andrexduarte.github.io/adx/blog/';
 const canonicalPath = baseUrl + (path + '/').replace(/\/+$/, '/');
 const image = baseUrl + (data.value?.article?.socialImage.src || '/sample.webp');
 
@@ -119,7 +121,7 @@ const jsonScripts = [
             '@type': 'BlogPosting',
             mainEntityOfPage: {
                 '@type': 'WebPage',
-                '@id': 'https://example.com/'
+                '@id': 'https://andrexduarte.github.io/adx/blog/'
             },
             url: canonicalPath,
             image: image,
@@ -128,7 +130,7 @@ const jsonScripts = [
             datePublished: data.value?.article?.date,
             dateModified: data.value?.article?.dateUpdated || data.value?.article?.date,
             author: authorData.value[data.value?.article?.author],
-            publisher: authorData.value['Gonzalo Hirsch']
+            publisher: authorData.value['André Duarte']
         })
     }
 ];

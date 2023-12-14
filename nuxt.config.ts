@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ['@nuxt/content', "@nuxt/image"],
   app: {
-      baseURL: '/andre/' // baseURL: '/<repository>/'
+      baseURL: '/adx/' // baseURL: '/<repository>/'
   },
   css: [
     // SCSS file in the project

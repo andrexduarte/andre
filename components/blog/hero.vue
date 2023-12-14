@@ -1,9 +1,11 @@
 <template>
-    <Section id="blog" class="text-typography_primary">
+    <Section id="blog">
         <div>
             <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
                 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                    <a itemprop="item" href="/"> <span itemprop="name">Home</span></a>
+                    <NuxtLink itemprop="item" to="/">
+                        <span itemprop="name">Home</span>
+                    </NuxtLink>
                     <meta itemprop="position" content="1" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">

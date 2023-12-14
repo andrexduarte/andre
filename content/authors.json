@@ -2,7 +2,7 @@
     "André Duarte": {
         "@context": "http://www.schema.org",
         "@type": "Person",
-        "@id": "https://example.com/",
+        "@id": "https://andrexduarte.github.io/adx/",
         "name": "André Duarte",
         "alternateName": "André Duarte",
         "nationality": "Brasileiro",
@@ -12,14 +12,14 @@
             {
                 "@type": "Freelancer",
                 "sameAs": [
-                    "https://www.sample-organization.com/"
+                    "https://andrexduarte.github.io/adx/"
                 ]
             }
         ],
-        "url": "https://example.com/",
-        "image": "https://example.com/meta-img.jpg",
+        "url": "https://andrexduarte.github.io/adx/",
+        "image": "https://andrexduarte.github.io/adx/img/andre-duarte.jpg",
         "sameAs": [
-            "https://example.com/"
+            "https://andrexduarte.github.io/adx/"
         ]
     }
 }
