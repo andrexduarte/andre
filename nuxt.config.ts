@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: false },
-  modules: ['@nuxt/content', "@nuxt/image"],
+  modules: ['@nuxt/content', '@nuxt/image', 'nuxt-gtag'],
   app: {
       baseURL: '/adx/' // baseURL: '/<repository>/'
   },
@@ -9,9 +9,12 @@ export default defineNuxtConfig({
     // SCSS file in the project
     "~/assets/style/main.scss", // you should add main.scss somewhere in your app
   ],
-
+  gtag: {
+    id: 'G-FHVFLYBKT8'
+  },
   plugins: [
-    '~/plugins/globalVariables.js'
+    '~/plugins/globalVariables.js',
+    '~/plugins/router.scrollBehaviour.js'
   ],
   ssr: true,
   experimental: {
@@ -22,7 +25,6 @@ export default defineNuxtConfig({
           strict: false
       }
   },
-
   sourcemap: false,
   content: {
       // https://content.nuxtjs.org/api/configuration

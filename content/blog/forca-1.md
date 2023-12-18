@@ -1,5 +1,5 @@
 ---
-title: 'Força | Blog'
+title: 'Força | André Duarte - front-end developer'
 description: "Não foram uma nem duas pessoas que eu conheci nos últimos oito meses..."
 headline: 'Força'
 excerpt: "Não foram uma nem duas pessoas que eu conheci nos últimos oito meses que não sabem ler ou escrever."

@@ -1,5 +1,5 @@
 ---
-title: 'Primavera | Blog'
+title: 'Primavera | André Duarte - front-end developer'
 description: "Chegou a primavera!"
 headline: 'Primavera'
 excerpt: "Chegou a primavera!"

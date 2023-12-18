@@ -2,6 +2,7 @@
     <div>
         <Head>
             <Title>{{ $siteName }} - {{ $siteDesc }} - {{ $local }}</Title>
+            <link rel="shortcut icon" href="/favicon.ico" />
             <Meta name="description" content="André Duarte - Front-end Developer" />
             <Link rel="preconnect" href="https://fonts.googleapis.com" />
             <Meta name="viewport" content="width=device-width, initial-scale=1.0" />

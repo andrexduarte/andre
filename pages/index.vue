@@ -4,11 +4,10 @@
     <TheHeader>
         <div class="ilustra">
             <NuxtImg src="/img/ilustra_psd_slice.png" alt="imagem ilustrativa." />
-            <span id="mouse"></span>
         </div>
     </TheHeader>
 
-    <main>
+    <main id="inicio">
         <div class="content">
             <article class="entry">
                 <h2>Oi! Sou o André! ;)</h2>

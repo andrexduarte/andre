@@ -1,8 +1,13 @@
+html {
+    scroll-behavior: smooth;
+
+}
 body {
     color: var(--text-color);
     font-family: var(--primary-font);
     box-sizing: border-box;
     position: relative;
+    scroll-behavior: smooth;
 
     &::after {
         content: "";

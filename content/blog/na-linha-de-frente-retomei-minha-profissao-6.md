@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Na linha de frente: retomei minha profissão | André Duarte - front-end developer'
 description: "Na linha de frente: retomei minha profissão"
 headline: 'Na linha de frente: retomei minha profissão'
 excerpt: "Na linha de frente: retomei minha profissão"
@@ -28,7 +28,7 @@ Voltei pro mercado de trabalho tem um mês (fiquei sete anos fora). Mesmo com to
 
 Me bastava uma única experiência na área de tecnologia, mas eu consegui muito mais.
 
-Hoje, treze anos depois, acho que consegui o equilíbrio. Trabalho remoto. Posso morar aonde quiser. Se concretizou tudo que eu desejava lá no início. Eu tive que mudar de cidade duas vezes. Eu simplesmente odivava morar em Belo Horizonte. Odiei quando tive que sair de Ipatinga pra Uberlândia.
+Hoje, treze anos depois, acho que consegui o equilíbrio. Trabalho remoto. Posso morar aonde quiser. Se concretizou tudo que eu desejava lá no início. Eu tive que mudar de cidade duas vezes. Eu simplesmente odiava morar em Belo Horizonte. Odiei quando tive que sair de Ipatinga pra Uberlândia.
 
 Eu gostava do meu trabalho, mas não suportava viver na cidade grande. Larguei mão pra ir pra roça consciente que com o tempo eu perderia profissionalmente.
 

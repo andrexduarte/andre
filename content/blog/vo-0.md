@@ -1,5 +1,5 @@
 ---
-title: 'Vô | Blog'
+title: 'Vô | André Duarte - front-end developer'
 description: "Saudade do meu vô"
 headline: 'Vô'
 excerpt: "Saudade do meu vô"

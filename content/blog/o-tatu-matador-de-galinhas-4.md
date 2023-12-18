@@ -1,5 +1,5 @@
 ---
-title: 'O Tatu matador de galinhas | Blog'
+title: 'O Tatu matador de galinhas | André Duarte - front-end developer'
 description: "Tatu fidumaégua!"
 headline: 'O Tatu matador de galinhas'
 excerpt: "Tatu fidumaégua!"

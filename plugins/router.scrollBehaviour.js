@@ -12,7 +12,7 @@ export default defineNuxtPlugin((nuxtApp) => {
           document.querySelector(hash) ||
           new Promise((resolve) => {
             if (x > 0) {
-              return resolve(document.querySelector("#app"));
+              return resolve(document.querySelector("#inicio"));
             }
             // Need to set the timeout to something larger or equal than 300
             setTimeout(() => {

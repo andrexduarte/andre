@@ -1,5 +1,5 @@
 ---
-title: 'Causo da abelha | Blog'
+title: 'Causo da abelha | André Duarte - front-end developer'
 description: "Estava plantando feijão guandu quando, de repente, uma abelha começou a sobrevoar meu rosto."
 headline: 'Causo da abelha'
 excerpt: "Estava plantando feijão guandu quando, de repente, uma abelha começou a sobrevoar meu rosto."

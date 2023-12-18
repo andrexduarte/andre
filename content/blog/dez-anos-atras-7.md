@@ -1,5 +1,5 @@
 ---
-title: 'Dez anos atrás | Blog'
+title: 'Dez anos atrás | André Duarte - front-end developers'
 description: "Dez anos atrás eu morava em Ipatinga. Virava noite estudando padrões web, HTML"
 headline: 'Dez anos atrás'
 excerpt: "Dez anos atrás eu morava em Ipatinga. Virava noite estudando padrões web, HTML"

@@ -1,5 +1,5 @@
 ---
-title: 'Inverno | Blog'
+title: 'Inverno | André Duarte - front-end developer'
 description: "Salve-se quem puder! O inverno chegou."
 headline: 'Inverno'
 excerpt: "Salve-se quem puder! O inverno chegou."

@@ -2,7 +2,6 @@
     <TheHeader class="header-blog">
         <div class="ilustra">
             <NuxtImg src="/img/ilustra_psd_slice.png" alt="imagem ilustrativa." />
-            <span id="mouse"></span>
         </div>
     </TheHeader>
 
