@@ -107,7 +107,7 @@ const { data, error } = await useAsyncData(`content-${cleanPath}`, async () => {
 const { data: authorData } = await useAsyncData('home', () => queryContent('/authors').findOne());
 
 // Set the meta
-const baseUrl = 'https://andrexduarte.github.io/adx/blog/';
+const baseUrl = 'https://andrexduarte.github.io/adx';
 const canonicalPath = baseUrl + (path + '/').replace(/\/+$/, '/');
 const image = baseUrl + (data.value?.article?.socialImage.src || '/sample.webp');
 
@@ -120,7 +120,7 @@ const jsonScripts = [
             '@type': 'BlogPosting',
             mainEntityOfPage: {
                 '@type': 'WebPage',
-                '@id': 'https://andrexduarte.github.io/adx/blog/'
+                '@id': 'https://andrexduarte.github.io/adx'
             },
             url: canonicalPath,
             image: image,
