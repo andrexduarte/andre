@@ -3,6 +3,7 @@
         <Head>
             <Title>{{ $siteName }} - {{ $siteDesc }} - {{ $local }}</Title>
             <link rel="shortcut icon" href="https://andrexduarte.github.io/adx/_ipx/_/img/favicon.ico" />
+            <meta name="google-site-verification" content="YVI_41zFhvXmgSLPyz8qPkIScAyVifdLiO4wIvp62m4" />
             <Meta name="description" content="André Duarte - Front-end Developer" />
             <Link rel="preconnect" href="https://fonts.googleapis.com" />
             <Meta name="viewport" content="width=device-width, initial-scale=1.0" />
