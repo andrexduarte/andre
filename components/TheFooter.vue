@@ -4,7 +4,7 @@
 
         <div class="content">
             <small class="license">
-                <img src="/img/icon-passaro.png"> © Nenhum direito reservado.<br> Feito com NuxtJs. <NuxtLink :to="`${ $urlInstagram }`" target="_blank">André Duarte</NuxtLink> 2023.
+                <img src="/img/icon-passaro.png" alt="ilustração de uma página construida"> © Nenhum direito reservado.<br> Feito com NuxtJs. <NuxtLink :to="`${ $urlInstagram }`" target="_blank">André Duarte</NuxtLink> 2023.
             </small>
         </div>
     </footer>
