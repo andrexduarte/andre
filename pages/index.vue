@@ -12,7 +12,7 @@
             <article class="entry">
                 <h2>Oi! Sou o André! ;)</h2>
                 <p>
-                    Sou desenvolver front-end focado na camada visual, trabalho com Wordpress, Angular, VueJs e já trabalhei com uma outra porção de frameworks e bibliotecas. Com experiência desde 2009 vi elas nascerem e morrerem.
+                    Sou desenvolver front-end focado na camada visual, atualmente estou trabalhando com VueJs, mas tenho grande familiaridade com Wordpress, já trabalhei com Angular e com uma outra porção de frameworks e bibliotecas. Com experiência desde 2009 vi elas nascerem e morrerem.
                 </p>
                 <p>
                     Sou muito bom com CSS, meu HTML é semântico e acessível e meu JavaScript é razóavel. Tenho noções de SEO, Design e experiência suficiente para entender um pouco de como que tudo funciona.

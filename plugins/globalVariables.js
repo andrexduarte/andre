@@ -3,7 +3,7 @@ export default defineNuxtPlugin( () => {
         provide: {
           siteName: 'André Duarte',
           local: 'Ipatinga',
-          siteDesc: 'Front-end developer HTML | CSS | JS | WordPress | AngularJs | VueJs',
+          siteDesc: 'Front-end developer VueJs | NuxtJs | WordPress | Angular | CSS ',
           tel: '+55 (31) 99293-0696',
           urlTel: '5531992930696',
           urlSite: 'https://andrexduarte.github.io/adx/',
