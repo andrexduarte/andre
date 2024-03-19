@@ -53,3 +53,17 @@ Com leite podemos produzir uma infinidade de alimentos e comercializar para obte
     <img src="/img/blog/vacas/doce-de-leite.jpg" title="Eu produzia doce de leite" alt="Doce de leite artesanal">
     <img src="/img/blog/vacas/gado-debaixo-do-ipe.jpg" alt="Ipê amarelo do cerrado">   
 </div>
+
+<h2>Coisas que aprendi sobre gado</h2>
+
+Eu ainda não passo de um iniciante nesse negócio de criação bovina. Se você quer saber a forma de fazer isso corretamente, recomendo que leia as cartilhas da Emater e Embrapa. Eles produzem conteúdo a partir de experiências reais. Tudo que eles publicam foi experimentado e comprovado. Recomendo mesmo que leia todo material técnico que eles publicam sobre qualquer assunto. Mas, sobretudo, observe os seus vizinhos e procure saber o jeito caipira de fazer as coisas.
+
+Visitando alguns currais eu descobri que o pessoal limpa o teto da vaca com o rabo dela. Funciona assim, antes de tirar o leite você deixa o bezerro mamar pra vaca descer o leite. Depois você amarra o bezerro no pé da vaca. Dessa forma ela fica quieta e libera ‘o creme’ pra você puxar com as próprias mãos. Depois que o bezerro mama, fica uma ‘baba’ nos tetos. O ideal é limpar aquilo com água e secar com papel ou pano. Eu utilizo uma garrafa pet com água e seco com um pano que eu troco constantemente. Um pano para cada vaca.
+
+Higiene é fundamental na criação do gado leiteiro e você deve prezar por ela em todo momento que for possível. Você deve limpar o curral constantemente, não deixar umidade. Quando construir o curral, faça-o de forma que o sol entre na maior parte de tempo possível. O sol é o melhor desinfetante e está disponível em níveis elevadíssimos com capacidade de eliminar muitos patógenos, fungos e bactérias.
+
+Literalmente uma vaca produz conforme o que ela come. Em quantidade e qualidade. Para criar vaca de forma economicamente viável é preciso ter pasto. Na melhor qualidade possível. Existem várias espécies de capins, mas o melhor é o que vai nascer no seu terreno. Braquiária é, com certeza, uma ótima opção pro sertanejo. Se você tem solo bom e bons níveis de chuva durante o ano, o tifton é a melhor opção. Uma coisa que eu aprendi é que não se deve lutar contra a natureza. É mais sábio e inteligente que você plante uma gramínea adaptada às condições do seu solo. O agrônomo vai te falar que é possível plantar qualquer capim e que para isso basta criar a condição para o solo. Isso custa dinheiro. Tudo custa dinheiro. O sertanejo tem que gastar menos dinheiro possível.
+
+Vaca come muito! Uma vaca pode comer uma tonelada de silagem por mês ou até 70kg de capim por dia. Mas o que interessa é a matéria seca. Ela precisa comer aproximadamente 10% do seu peso corporal de matéria seca por dia para se manter e criar condições para se reproduzir e ser produtiva.
+
+Vaca é a fêmea bovina que já procriou. Novilha é quando está prenhe pela primeira vez. São chamados de bezerro/bezerra quando ainda não atingiram a idade para reprodução. Touro é o reprodutor, ele é mantido com o objetivo de montar nas vacas. Boi é quando o animal passou da fase de bezerro, mas não é o reprodutor (provavelmente foi castrado).
