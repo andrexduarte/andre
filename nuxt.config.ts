@@ -9,6 +9,9 @@ export default defineNuxtConfig({
   ],
   gtag: {
     id: 'G-Z5Q741NCDD',
+    config: {
+      cookie_flags: 'SameSite=None; Secure'
+    }
   },
   
   i18n: {
