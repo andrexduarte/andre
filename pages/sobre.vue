@@ -5,7 +5,7 @@
   const metaTitle = computed(() => t('meta.title'))
   const metaDescription = computed(() => t('meta.description'))
   useHead({
-    title: metaTitle.value,
+    title: 'Sobre | André Duarte - Front-end developer VueJs | NuxtJs | WordPress | ReactJs',
     htmlAttrs: {
       lang: locale.value,
     },
