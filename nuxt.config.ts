@@ -29,21 +29,20 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/', // baseURL: '/<repository>/'
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
       link: [
-        { rel: 'icon', type: 'image/png', href: `${process.env.NUXT_APP_BASE_URL}favicon-96x96.png`, sizes: '96x96' },
-        { rel: 'icon', type: 'image/svg+xml', href: `${process.env.NUXT_APP_BASE_URL}favicon.svg` },
-        { rel: 'shortcut icon', href: `${process.env.NUXT_APP_BASE_URL}favicon.ico` },
-        { rel: 'apple-touch-icon', sizes: '180x180', href: `${process.env.NUXT_APP_BASE_URL}apple-touch-icon.png` }
+        { rel: 'icon', type: 'image/png', href: `${process.env.NUXT_APP_BASE_URL || '/'}favicon-96x96.png`, sizes: '96x96' },
+        { rel: 'icon', type: 'image/svg+xml', href: `${process.env.NUXT_APP_BASE_URL || '/'}favicon.svg` },
+        { rel: 'shortcut icon', href: `${process.env.NUXT_APP_BASE_URL || '/'}favicon.ico` },
+        { rel: 'apple-touch-icon', sizes: '180x180', href: `${process.env.NUXT_APP_BASE_URL || '/'}apple-touch-icon.png` }
       ],
       meta: [
         { name: 'apple-mobile-web-app-title', content: 'André Duarte - Front-end developer' },
       ]
     },
-
-    baseURL: '/adx/', // baseURL: '/<repository>/'
     buildAssetsDir: 'assets',
   },
 
