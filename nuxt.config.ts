@@ -33,10 +33,10 @@ export default defineNuxtConfig({
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
       link: [
-        { rel: 'icon', type: 'image/png', href: 'adx/favicon-96x96.png', sizes: '96x96' },
-        { rel: 'icon', type: 'image/svg+xml', href: 'adx/favicon.svg' },
-        { rel: 'shortcut icon', href: 'adx/favicon.ico' },
-        { rel: 'apple-touch-icon', sizes: '180x180', href: 'adx/apple-touch-icon.png' }
+        { rel: 'icon', type: 'image/png', href: `${process.env.NUXT_APP_BASE_URL}favicon-96x96.png`, sizes: '96x96' },
+        { rel: 'icon', type: 'image/svg+xml', href: `${process.env.NUXT_APP_BASE_URL}favicon.svg` },
+        { rel: 'shortcut icon', href: `${process.env.NUXT_APP_BASE_URL}favicon.ico` },
+        { rel: 'apple-touch-icon', sizes: '180x180', href: `${process.env.NUXT_APP_BASE_URL}apple-touch-icon.png` }
       ],
       meta: [
         { name: 'apple-mobile-web-app-title', content: 'André Duarte - Front-end developer' },
