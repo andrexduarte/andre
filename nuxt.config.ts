@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   modules: ['@nuxtjs/color-mode', '@nuxt/image', '@nuxtjs/i18n', 'nuxt-gtag'],
-  ssr: false,
+  ssr: true,
   css: [
     '~/assets/style/main.scss',
   ],
@@ -58,8 +58,14 @@ export default defineNuxtConfig({
   },
 
   image: {
-    dir: 'public/images'
+    screens: {
+      sm: 320,
+      md: 640,
+      lg: 1024,
+      xl: 1280,
+    }
   },
+  
 
   build: {
     transpile: ['@nuxtjs/color-mode'],

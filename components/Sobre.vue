@@ -7,8 +7,9 @@
     <div class="block-img-left">
         <figure>
           <nuxt-img
-            src="/andre.jpg"
+            src="/images/andre.jpg"
             class="pb"
+            alt="Eu com meus cachoros."
           />
         </figure>
       </div>

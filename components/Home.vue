@@ -2,7 +2,7 @@
   <div class="hero">
     <div class="profile">
       <nuxt-img
-        src="/profile.jpeg"
+        src="/images/profile.jpeg"
         width="48px"
         height="48px"
         class="profile-img"
