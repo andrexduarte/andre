@@ -17,7 +17,7 @@ useHead(() => ({
     },
     {
       property: 'og:title',
-      content: metaTitle.value
+      content: 'André Duarte - Front-end developer'
     },
     {
       property: 'og:description',
