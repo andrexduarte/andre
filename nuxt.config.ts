@@ -43,7 +43,8 @@ export default defineNuxtConfig({
       ]
     },
 
-    baseURL: '/adx/' // baseURL: '/<repository>/'
+    baseURL: '/adx/', // baseURL: '/<repository>/'
+    buildAssetsDir: 'assets',
   },
 
   vite: {
