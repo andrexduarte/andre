@@ -6,7 +6,7 @@
     </p>
     <div class="block-img-left">
         <figure>
-          <NuxtImg
+          <nuxt-img
             src="/andre.jpg"
             class="pb"
           />

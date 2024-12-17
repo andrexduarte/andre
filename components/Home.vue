@@ -1,7 +1,7 @@
 <template>
   <div class="hero">
     <div class="profile">
-      <NuxtImg
+      <nuxt-img
         src="/profile.jpeg"
         width="48px"
         height="48px"
